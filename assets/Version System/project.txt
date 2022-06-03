@@ -1,0 +1,1 @@
+2022-06-01 -> Realizamos la primera version de nuestro landing Page, asi como tambien su primera version del codigo en HTML,CSS y JAVASCRIPT.
